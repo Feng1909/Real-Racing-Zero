@@ -1,0 +1,19 @@
+Race track for fast game prototyping.
+
+This asset contains:
+- race track model
+- Unity terrain with Unity trees
+- safety tires with physics applied
+- one camera
+- one light
+
+Materials with hi-res textures and normal maps.
+
+04-2016: Update 1 (v1.1):
+--------------------------
+
+1. Added detail to the terrain;
+2. Resized some textures to 1024px x 1024px for better performance;
+3. Renamed the terain to avoid conflicts on import;
+4. Improved the normal maps textures;
+5. Added a skybox + other textures.

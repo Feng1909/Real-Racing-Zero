@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: cbcd53ef5f7858845b65d1fee7baddc6
+timeCreated: 1450568447
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ad
+    100002: arrow-signs
+    100004: bridge-supports
+    100006: cementFence
+    100008: lamp-posts
+    100010: //RootNode
+    100012: startPosition
+    100014: track-bridge01
+    400000: ad
+    400002: arrow-signs
+    400004: bridge-supports
+    400006: cementFence
+    400008: lamp-posts
+    400010: //RootNode
+    400012: startPosition
+    400014: track-bridge01
+    2300000: ad
+    2300002: arrow-signs
+    2300004: bridge-supports
+    2300006: cementFence
+    2300008: lamp-posts
+    2300010: startPosition
+    2300012: track-bridge01
+    3300000: ad
+    3300002: arrow-signs
+    3300004: bridge-supports
+    3300006: cementFence
+    3300008: lamp-posts
+    3300010: startPosition
+    3300012: track-bridge01
+    4300000: track-bridge01
+    4300002: bridge-supports
+    4300004: lamp-posts
+    4300006: ad
+    4300008: cementFence
+    4300010: arrow-signs
+    4300012: startPosition
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
